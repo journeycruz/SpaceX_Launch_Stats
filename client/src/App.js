@@ -17,7 +17,9 @@ function App() {
     <
     div className = "Container" >
     <
-    img src = "./src/SpaceXLogo.png"
+    img src = {
+      logo
+    }
     alt = "SpaceX"
     style = {
       {
