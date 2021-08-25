@@ -28,4 +28,4 @@ cd client && npm run build
 MIT
 
 ## Credits
-Traversy Media - https://www.youtube.com/watch?v=SEMTj8w04Z8
+Traversy Media
